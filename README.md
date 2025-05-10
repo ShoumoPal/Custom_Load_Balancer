@@ -11,7 +11,7 @@ A lightweight HTTP load balancer built from scratch in Python. It distributes tr
   - Periodic HTTP GET checks to backend servers
   - Configurable intervals and endpoints
 - ⚙️ **Dynamic Backend Configuration**
-- ⚡ Built with **`asyncio`** for concurrency
+- ⚡Built with threading for concurrency
 
 ---
 
