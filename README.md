@@ -20,7 +20,7 @@ A lightweight HTTP load balancer built from scratch in Python. It distributes tr
 As part of my journey into backend systems and low-level architecture, I created this custom load balancer to gain hands-on experience with:
 
 - Networking fundamentals
-- Asynchronous programming in Python
+- Multi=threading in Python
 - Health monitoring logic
 - Real-world backend patterns
  
